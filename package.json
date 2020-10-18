@@ -1,8 +1,8 @@
 {
-  "name": "vikingship",
+  "name": "reactcomlib",
   "version": "0.1.4",
   "description": "React components library",
-  "author": "Viking Zhang",
+  "author": "Anne Lau",
   "private": false,
   "main": "dist/index.js",
   "module": "dist/index.js",

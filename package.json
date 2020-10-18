@@ -16,7 +16,7 @@
   "homepage": "http://vikingship.xyz",
   "repository": {
     "type": "git",
-    "url": "https://github.com/vikingmute/vikingship"
+    "url": "https://github.com/AnneLau/reactcomlib.git"
   },
   "files": [
     "dist"

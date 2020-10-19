@@ -2,7 +2,7 @@
 
 ## 使用 React+typescript 从零到一打造一套你自己的组件库
 
-reactcomlib 是为一套组件库，使用 React Hooks 和 typescript
+reactcomlib 是为一套自定义的组件库，使用 React Hooks 和 typescript
 意在从零到一，由浅入深的提高自己的 React 和 typescript 水平
 
 ### 安装最后已经发布的组件库来试试
